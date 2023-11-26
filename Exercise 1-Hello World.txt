@@ -1,0 +1,3 @@
+Haz un programa en Python que pida por teclado al usuario su nombre, su edad y su altura en metros.
+Después muestra por pantalla un mensaje del tipo:
+“El usuario NOMBRE, de EDAD años de edad y mide ALTURA metros”.
